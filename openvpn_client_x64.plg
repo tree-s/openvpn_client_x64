@@ -4,7 +4,7 @@
 <!ENTITY name      "openvpnclient">
 <!ENTITY author    "tree-s">
 <!ENTITY plgauthor    "tree-s">
-<!ENTITY version   "2021.11.05.01">
+<!ENTITY version   "2022.01.28.01">
 <!ENTITY gitURL    "https://github.com/&plgauthor;">
 <!ENTITY gitpkgURL    "&gitURL;/packages/raw/master">
 <!ENTITY launch    "Settings/&name;">
