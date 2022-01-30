@@ -96,12 +96,12 @@
 </CHANGES>
 
 <FILE Name="&pkgs;openvpn-2.4.9-x86_64-1_slack14.2.txz" Run="upgradepkg --install-new">
-<URL>&pkgURL;/slackware/slackware64-14.2/patches/packages/openvpn-2.4.9-x86_64-1_slack14.2.txz</URL>
+<URL>&pkgURL;slackware64-14.2/patches/packages/openvpn-2.4.9-x86_64-1_slack14.2.txz</URL>
 <MD5>5ab3046a28bfa972b27f512f35268dda</MD5>
 </FILE>
 
 <FILE Name="&pkgs;openssl-1.0.2h-x86_64-1.txz" Run="upgradepkg --install-new">
-<URL>&pkgURL;/slackware/slackware64-14.2/slackware64/n/openssl-1.0.2h-x86_64-1.txz</URL>
+<URL>&pkgURL;slackware64-14.2/slackware64/n/openssl-1.0.2h-x86_64-1.txz</URL>
 <MD5>bcf9dc7bb04173f002644e3ce33ab4ab</MD5>
 </FILE>
 	
